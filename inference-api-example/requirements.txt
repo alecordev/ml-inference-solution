@@ -1,0 +1,4 @@
+fastapi==0.75.1
+uvicorn==0.17.6
+amqpstorm==2.10.4
+python-dotenv==0.20.0
